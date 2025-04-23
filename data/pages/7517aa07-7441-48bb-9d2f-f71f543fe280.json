@@ -1,1 +1,41 @@
-{"content":[{"type":"paragraph","children":[{"text":""}]}],"title":"Introduction ","autogenerate":{"enabled":false,"type":"custom"},"slug":"introduction","created_at":"2025-04-23T12:59:45.135Z","created_by":"TawandaMulalu","updated_at":"2025-04-23T13:00:00.776Z","updated_by":"TawandaMulalu","parent":"2f1e171b-343f-474e-b7d5-5f15ccfa2d07"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c2/The_Man_Died.jpg",
+      "size": "medium",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Introduction ",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "introduction",
+  "created_at": "2025-04-23T12:59:45.135Z",
+  "created_by": "TawandaMulalu",
+  "updated_at": "2025-04-23T13:10:30.166Z",
+  "updated_by": "TawandaMulalu",
+  "parent": "2f1e171b-343f-474e-b7d5-5f15ccfa2d07"
+}
