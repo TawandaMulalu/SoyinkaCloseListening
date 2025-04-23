@@ -1,14 +1,45 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "82496408-fb82-4d61-9a59-f5591972a8e3",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-04-23T12:57:15.976Z",
   "created_by": "TawandaMulalu",
   "title": "Nobel Laureate Wole Soyinka reflects on his life’s work and the new film The Man Died (CNN African Voicemakers, 2024)",
   "slug": "nobel-laureate-wole-soyinka-reflects-on-his-l",
-  "updated_at": "2025-04-23T12:57:15.976Z",
+  "updated_at": "2025-04-23T13:04:36.129Z",
   "updated_by": "TawandaMulalu",
   "parent": "2f1e171b-343f-474e-b7d5-5f15ccfa2d07",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "82496408-fb82-4d61-9a59-f5591972a8e3"
   }
