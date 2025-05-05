@@ -421,22 +421,6 @@
       "uuid": "96d34672-c3f9-4d10-a195-bf3fa6783c4e"
     },
     {
-      "start_time": 1232,
-      "end_time": 1268,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "undefined"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "e3106012-7fb9-41dd-be48-d188f0140917"
-    },
-    {
       "start_time": 1268,
       "end_time": 1282,
       "annotation": [
