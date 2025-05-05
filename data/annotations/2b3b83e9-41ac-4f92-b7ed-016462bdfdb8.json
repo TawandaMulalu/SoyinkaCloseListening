@@ -106,27 +106,6 @@
       "uuid": "9aa5af90-52cf-419f-876d-193e7b5ba1ed"
     },
     {
-      "start_time": 491,
-      "end_time": 531,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The archival audio of foreign journalists provides a sense of how widespread global reporting was of the Biafran Civil War was, as one of the first civil conflicts to gain worldwide attention due to rapidly developing technologies and globalization post-WWII."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Theoretical Note"
-        }
-      ],
-      "uuid": "a4395df8-80b2-4f70-95df-83d94ae2282d"
-    },
-    {
       "start_time": 563,
       "end_time": 569,
       "annotation": [
