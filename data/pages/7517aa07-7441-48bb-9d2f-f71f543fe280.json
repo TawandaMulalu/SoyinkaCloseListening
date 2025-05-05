@@ -29,7 +29,8 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "Gowon: He is quite well? Settling down? "
+          "text": "Gowon: He is quite well? Settling down? ",
+          "italic": true
         }
       ],
       "align": "justify"
@@ -38,7 +39,8 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "Ige: As far as I know, yes."
+          "text": "Ige: As far as I know, yes.",
+          "italic": true
         }
       ],
       "align": "justify"
@@ -47,7 +49,8 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "Gowon: Good. Now, I want you to give him this message from me. I want you to repeat my exact words, will you do that?"
+          "text": "Gowon: Good. Now, I want you to give him this message from me. I want you to repeat my exact words, will you do that?",
+          "italic": true
         }
       ],
       "align": "justify"
@@ -56,7 +59,8 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "Ige: Yes, of course."
+          "text": "Ige: Yes, of course.",
+          "italic": true
         }
       ],
       "align": "justify"
@@ -65,22 +69,24 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "Gowon: Tell him I said, Bygones is bygones. Right? Use my exact words—Bygones is bygones (287)."
+          "text": "Gowon: Tell him I said, Bygones is bygones. Right? Use my exact words—Bygones is bygones (287).",
+          "italic": true
         }
       ],
       "align": "justify"
     },
     {
-      "type": "block-quote",
-      "align": "justify",
+      "type": "paragraph",
       "children": [
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
+      "align": "justify",
       "children": [
         {
           "text": "Soyinka’s response to this conversation ends his memoir: “My a**e!” This petulance is deeply understandable. "
@@ -92,8 +98,7 @@
         {
           "text": "goes into great detail regarding the dehumanizing violence that Soyinka and his fellow prisoners suffered through, especially during his periods of solitary confinement. Furthermore, he goes to great pains to characterize Gowon’s many moral failures as a leader, particularly his facilitation of the mass killings of Igbos in Biafra during the civil war. But contrast this with the following dialogue between Soyinka and Gowon himself, over four decades later, on the second part of a podcast recorded and distributed through the BBC World Service in 2007: "
         }
-      ],
-      "align": "justify"
+      ]
     },
     {
       "type": "paragraph",
@@ -108,7 +113,8 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "Gowon: The report that came to me actually that in the end made me give the go ahead for your incarceration. He became my guest. For how many is it?"
+          "text": "Gowon: The report that came to me actually that in the end made me give the go ahead for your incarceration. He became my guest. For how many is it?",
+          "italic": true
         }
       ],
       "align": "justify"
@@ -117,7 +123,8 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "Soyinka: Total two years and four months."
+          "text": "Soyinka: Total two years and four months.",
+          "italic": true
         }
       ],
       "align": "justify"
@@ -126,7 +133,8 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "Gowon: Two years and four months. But really that was done, the report was that yes, you have been going and meeting with Ojukwu and Banjo. I think if you remember some of the bombing that had taken place on Moloney Street very near the police headquarters, you remember that, and the cinema in Yaba. And all this was stated to be his hand to work. You know, this rebel rouser."
+          "text": "Gowon: Two years and four months. But really that was done, the report was that yes, you have been going and meeting with Ojukwu and Banjo. I think if you remember some of the bombing that had taken place on Moloney Street very near the police headquarters, you remember that, and the cinema in Yaba. And all this was stated to be his hand to work. You know, this rebel rouser.",
+          "italic": true
         }
       ],
       "align": "justify"
@@ -135,7 +143,8 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "Soyinka: You see what evil reputation they give me."
+          "text": "Soyinka: You see what evil reputation they give me.",
+          "italic": true
         }
       ],
       "align": "justify"
@@ -144,7 +153,8 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "Gowon: And I said, my goodness. So, we thought the best thing to do is go and give him a good rest (Soyinka 00:04:47-00:05:52)."
+          "text": "Gowon: And I said, my goodness. So, we thought the best thing to do is go and give him a good rest (Soyinka 00:04:47-00:05:52).",
+          "italic": true
         }
       ],
       "align": "justify"
@@ -262,7 +272,8 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "“...as the last gate was opened I found I had set up an aimless cycle of words. Over and over it repeated itself, over and over until my conscious mind at long last took note of this incantation. A quotation from a long forgotten book? Or simply the creative mind’s originality-at-all-costs variant of that familiar theme: Abandon hope all who enter here? No matter, it goes thus and thus in an accent of bell chimes: In time of evil come I to this place of evil brought by evil hands and who knows but I may come to evil in this evil place…Then it begins over again” (129). "
+          "text": "“...as the last gate was opened I found I had set up an aimless cycle of words. Over and over it repeated itself, over and over until my conscious mind at long last took note of this incantation. A quotation from a long forgotten book? Or simply the creative mind’s originality-at-all-costs variant of that familiar theme: Abandon hope all who enter here? No matter, it goes thus and thus in an accent of bell chimes: In time of evil come I to this place of evil brought by evil hands and who knows but I may come to evil in this evil place…Then it begins over again” (129). ",
+          "italic": true
         }
       ],
       "align": "justify"
@@ -364,20 +375,21 @@
       "align": "justify"
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
+      "align": "justify",
       "children": [
         {
           "text": ""
         }
-      ],
-      "align": "justify"
+      ]
     },
     {
       "type": "block-quote",
       "align": "justify",
       "children": [
         {
-          "text": "I anoint my voice"
+          "text": "I anoint my voice",
+          "italic": true
         }
       ]
     },
@@ -385,7 +397,8 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "And let it sound hereafter"
+          "text": "And let it sound hereafter",
+          "italic": true
         }
       ],
       "align": "justify"
@@ -394,7 +407,8 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "Or dissolve upon its lonely passage"
+          "text": "Or dissolve upon its lonely passage",
+          "italic": true
         }
       ],
       "align": "justify"
@@ -403,7 +417,8 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "In your void. Voices new"
+          "text": "In your void. Voices new",
+          "italic": true
         }
       ],
       "align": "justify"
@@ -412,7 +427,8 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "Shall rouse the echoes when"
+          "text": "Shall rouse the echoes when",
+          "italic": true
         }
       ],
       "align": "justify"
@@ -421,7 +437,8 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "Evil shall again arise (253) "
+          "text": "Evil shall again arise (253) ",
+          "italic": true
         }
       ],
       "align": "justify"
@@ -452,20 +469,21 @@
       ]
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
+      "align": "justify",
       "children": [
         {
           "text": ""
         }
-      ],
-      "align": "justify"
+      ]
     },
     {
       "type": "block-quote",
       "align": "justify",
       "children": [
         {
-          "text": "Madowo: So how did you feel turning that dark period into something people can watch? "
+          "text": "Madowo: So how did you feel turning that dark period into something people can watch? ",
+          "italic": true
         }
       ]
     },
@@ -473,7 +491,8 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "Soyinka: Let me put it this way, turning anything in my life into something other people can watch pains me. I mean, it makes me, I don't mean physical hurt, it makes me extremely uncomfortable. "
+          "text": "Soyinka: Let me put it this way, turning anything in my life into something other people can watch pains me. I mean, it makes me, I don't mean physical hurt, it makes me extremely uncomfortable. ",
+          "italic": true
         }
       ],
       "align": "justify"
@@ -482,7 +501,8 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "Madowo: Why? "
+          "text": "Madowo: Why? ",
+          "italic": true
         }
       ],
       "align": "justify"
@@ -491,14 +511,15 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "Soyinka: I have no idea. For me it's just, it's wrong to say it's horrific, let's just say that I'm detached from it. The one in which we've collaborated was the one you're referring to, "
-        },
-        {
-          "text": "The Man Died",
+          "text": "Soyinka: I have no idea. For me it's just, it's wrong to say it's horrific, let's just say that I'm detached from it. The one in which we've collaborated was the one you're referring to, ",
           "italic": true
         },
         {
-          "text": ", in which I assisted them in trying to locate a building, a house, in which I hid and operated during the civil war. Well, it's not just about me alone, this is also about a particular period (Soyinka 00:11:06-00:11:57)."
+          "text": "The Man Died,"
+        },
+        {
+          "italic": true,
+          "text": " in which I assisted them in trying to locate a building, a house, in which I hid and operated during the civil war. Well, it's not just about me alone, this is also about a particular period (Soyinka 00:11:06-00:11:57)."
         }
       ],
       "align": "justify"
@@ -630,30 +651,42 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "Gowon: Well, right from the beginning, I know that it is not a war against the evils. So there was no intention of fighting to just defeat the evils and to humiliate them. But I saw it more as a fight between brothers. Yes, you can fight, but if you are a true brother, you can fight, but in the end, you know, make it up. So right from the beginning, I think the idea of ensuring that it is not a punitive action against the people, we had hoped that in the end, you know, we'll be able to sit back and look back and even joke about it."
+          "text": "Gowon: Well, right from the beginning, I know that it is not a war against the Igbos. So there was no intention of fighting to just defeat the Igbos and to humiliate them. But I saw it more as a fight between brothers. Yes, you can fight, but if you are true brothers, you can fight, but in the end, you know, make it up. So right from the beginning, I think the idea of ensuring that it is not a punitive action against the people, we had hoped that in the end, you know, we'll be able to sit back and look back and even joke about it.",
+          "italic": true
         }
       ],
       "align": "justify"
     },
     {
       "type": "block-quote",
+      "align": "justify",
       "children": [
         {
-          "text": "Ojukwu: He certainly thought the slogan, "
-        },
+          "text": "",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
         {
-          "text": "no victor, no vanquished,",
+          "text": "Ojukwu: He certainly thought the slogan, ",
           "italic": true
         },
         {
-          "text": " put him in line, sort of in the same, not Washington, but Lincoln in America. He was one of the magnanimous victors of our civilization. Did Gawain, when he was saying it, really understand what it meant, "
+          "text": "no victor, no vanquished,"
         },
         {
-          "text": "no victor, no vanquished",
-          "italic": true
+          "italic": true,
+          "text": " put him in line, sort of in the same, not Washington, but Lincoln in America. He was one of the magnanimous victors of our civilization. Did Gowon, when he was saying it, really understand what it meant, "
         },
         {
-          "text": "? Did Haziop till today, has he thought back? How much did he do to make the victor not a victor? On the other side, we the vanquished certainly have so many steps of Nigeria that remind us that we are vanquished (Soyinka 00:17:10-00:19:12)."
+          "text": "no victor, no vanquished"
+        },
+        {
+          "italic": true,
+          "text": "? Has he up till today, has he thought back? How much did he do to make the victor not a victor? On the other side, we the vanquished certainly have so many steps of Nigeria that remind us that we are vanquished (Soyinka 00:17:10-00:19:12)."
         }
       ],
       "align": "justify"
@@ -1224,7 +1257,7 @@
   "slug": "introduction",
   "created_at": "2025-04-23T12:59:45.135Z",
   "created_by": "TawandaMulalu",
-  "updated_at": "2025-05-05T04:07:58.988Z",
+  "updated_at": "2025-05-05T04:14:46.375Z",
   "updated_by": "TawandaMulalu",
   "parent": "2f1e171b-343f-474e-b7d5-5f15ccfa2d07"
 }
