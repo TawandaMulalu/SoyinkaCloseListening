@@ -461,22 +461,6 @@
         }
       ],
       "uuid": "ed57348c-9eb7-4020-983d-16f38ca0c2a9"
-    },
-    {
-      "start_time": 1322,
-      "end_time": 1334,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "undefined"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "cfd70745-035d-4878-8093-04be2622051d"
     }
   ],
   "event_id": "4e588084-4b8a-4e32-868b-89491ef32676",
