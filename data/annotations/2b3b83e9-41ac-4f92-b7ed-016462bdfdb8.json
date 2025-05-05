@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 0,
-      "end_time": 7,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "undefined"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "f7e41904-d075-4f16-87ae-ca227293d66a"
-    },
-    {
       "start_time": 23,
       "end_time": 73,
       "annotation": [
