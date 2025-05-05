@@ -1,5 +1,1342 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is a download from the BBC. For details of our huge new range of audio for free download or podcast and our terms of use, go to bbcworldservice.com slash podcast."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "BBC Podcaster"
+        }
+      ],
+      "uuid": "7e0a24ac-6aee-4113-aa40-49a7ada40f12"
+    },
+    {
+      "start_time": 23,
+      "end_time": 73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The army takeover and its corrective mission had raised the hopes of our people in their desire to see an end to the hideous evils of tribalism, corruption and nepotism. The army had professed to turn Nigeria into a land where no one should feel a stranger in his own country. Sad to relate, the events of May, July and September 1966 and thereafter have since shattered those pious hopes and plunged Nigeria into uncertainty, drift and confusion. Wanton and premeditated acts of destruction against this region and its peoples have compelled them to reappraise their attitudes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Army Announcer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Odumegwu Ojukwu"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Military Music"
+        }
+      ],
+      "uuid": "a71e6458-33aa-4586-9f6a-714ff7f75d72"
+    },
+    {
+      "start_time": 76,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am Wole Soyinka, standing on that same Nigerian soil where, from the beginning of the 19th century to 40 years ago, what was perhaps the first full blown civil war in post-colonial Africa took place."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wole Soyinka"
+        }
+      ],
+      "uuid": "d790d4a3-2789-4787-a401-0d7ae03af0ca"
+    },
+    {
+      "start_time": 87,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*gunshot sounds*"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Environmental Sound"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sounds of War"
+        }
+      ],
+      "uuid": "9070a477-66f6-4300-bbc8-a141bbc8066c"
+    },
+    {
+      "start_time": 91,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The soldiers here say that from a yellow house which I can just see above the palm trees has come a great deal of sniping fire this morning."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Archival Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "News Reporter"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Collage"
+        }
+      ],
+      "uuid": "e4ffc50d-9083-4824-bf36-a533725ff818"
+    },
+    {
+      "start_time": 101,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I saw on the roads thousands and thousands of refugees trying to bring a few possessions and their children along with them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Archival Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Collage"
+        }
+      ],
+      "uuid": "6a25b495-f1ae-4055-aa21-fb990d0bb0da"
+    },
+    {
+      "start_time": 110,
+      "end_time": 124,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Word came that there had been a bombing raid on a marketplace and I counted personally 65 dead bodies, many of which were charred beyond recognition."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Archival Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Collage"
+        }
+      ],
+      "uuid": "03454a0d-21b0-49df-8f53-57a52621579a"
+    },
+    {
+      "start_time": 127,
+      "end_time": 131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Following the first ever Nigerian military coup in January 1966 and its counter-coup in May, a young northern officer from a minority Christian group, Yakubu Gowon, ended up as Nigeria's new head of state. The discovery of oil in huge reserves in the East played a role in the propulsion of the Biafran leaders towards secession. But it was not just the lear of oil wealth that drove the Igbo as a people to seek a separate existence led by Lieutenant Colonel Odumegwu Ojukwu, then military governor of the Eastern region. The prospect of war between the East and the Federation loomed larger every day, propelled by statements from Ojukwu which pointed the way to the breakup of Nigeria."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wole Soyinka"
+        }
+      ],
+      "uuid": "01a4f78d-c3ff-46b6-9ed1-837ca8c4cbbf"
+    },
+    {
+      "start_time": 173,
+      "end_time": 198,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We have reached a stage where I am unalterably convinced that to save the very semblance of Nigeria as one country we must drift a little apart, call it confederation or a loose association or whatever you will. It is the only way for survival, not only for ourselves but also for the country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Odumegwu Ojukwu"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Archival Audio"
+        }
+      ],
+      "uuid": "7f1e0ea2-6d35-4f4f-b945-1f85d3f25973"
+    },
+    {
+      "start_time": 198,
+      "end_time": 205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ojukwu declared an independent state of Biafran on May 30th 1967. I was in London with fellow Nigerians. We decided that someone had to go to the east to talk with Ojukwu, a dangerous mission as it was difficult for a non-Biafran to enter the now xenophobic entity called Biafran. But I volunteered to go, to make the journey first from Lagos to the mid-west, separated from the seceded state by the River Niger, then across into Biafra itself and the centre of power in Enugu. When I told a friend the plan, he choked on his meal. \"Madness, madness, nothing but madness, you get shot for nothing\". But I made that journey and today I am retracing my steps, going back to see Odumegwu Ojukwu again after 40 years. The first stage takes me to the border of Biafra, the River Niger at Asaba."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wole Soyinka"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Voiceover"
+        }
+      ],
+      "uuid": "73bf023e-8a7e-4256-a0d7-854d4ef88560"
+    },
+    {
+      "start_time": 207,
+      "end_time": 263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nigerians. We decided that someone had to go to the east to talk with Ujuku, a dangerous mission as it was difficult for a non-Biafran to enter the now xenophobic entity called Biafran. But I volunteered to go, to make the journey first from Lagos to the mid-west, separated from the seceded state by the River Niger, then across into Biafran itself and the centre of power in Enugu. When I told a friend the plan, he choked on his meal. Madness, madness, nothing but madness, you get shot for nothing. But I made that journey and today I am retracing my steps, going back to see Udumego Ujuku again after 40 years. The first stage takes me to the border of Biafran, the River Niger at Asaba."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "939a67c2-6d52-43b5-9af1-24a92492ae28"
+    },
+    {
+      "start_time": 260,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*street noises*"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ambient Sound"
+        }
+      ],
+      "uuid": "9fbb48f4-c79b-463f-bc8e-ae1c6ddf2ad3"
+    },
+    {
+      "start_time": 277,
+      "end_time": 331,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So we are on the west side of what is known as the Asaba bridge which links the mainly Ibo west with the Ibo east, that is links Asaba on the west side with Onicha on the east side. And it was cut of course during the civil war. Before that of course, the was blocked on both sides by huge caterpillars, in effect trying to, in the attempt of the federal side, to blockade the east and bring the secessionist section to heel. Now when I crossed, I remember I crossed much further, which is south now, south is this way yes, as the crossing point was further south from where canoes took off across the Niger River to the other side. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wole Soyinka"
+        }
+      ],
+      "uuid": "21476154-700b-4500-808c-44133d3e1c6e"
+    },
+    {
+      "start_time": 331,
+      "end_time": 335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*street noises*"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ambient Sound"
+        }
+      ],
+      "uuid": "468a0058-72b8-4c24-bc93-6bafaee24742"
+    },
+    {
+      "start_time": 335,
+      "end_time": 365,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Before crossing the river, I spent the night in Asaba as a guest of Professor Edozien. Today he is His Highness the Asagba of Asaba Edozien. It is a privilege to see him again and following the traditional greetings in his royal reception hall to hear both from him and distinguished residents in Asaba of the events that happened during the Biafran war."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wole Soyinka"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ambient Sound"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Edozien"
+        }
+      ],
+      "uuid": "9318982f-32b9-4620-8357-96bbe523e672"
+    },
+    {
+      "start_time": 365,
+      "end_time": 403,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There was the first wave of killing and after that it died down and there was peace. From my understanding that on a certain day the people were persuaded to go to the border and they were told that if they come to welcome the federal troops that the killings will stop. So the people gathered and danced and invited the federal troops to welcome, instead of welcome, said men on this side, women on that side and they gunned down the men."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Edozien"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Massacres"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Oral History"
+        }
+      ],
+      "uuid": "ea39cb9a-78f7-4c48-8d66-46b651b65f41"
+    },
+    {
+      "start_time": 403,
+      "end_time": 432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They had actually started killing people when I now again moved to Biafra inside to Enugu and then to Port Harcourt and then I was there until the war ended. The point I want to bring out is that yes, the troops were involved but they could not have done that without involvement of some civilians who wanted to get some revenge or something like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "First Guest of Edozien"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Massacres"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Oral History"
+        }
+      ],
+      "uuid": "7f657f8c-5d9f-433c-9551-8c1df70fda0a"
+    },
+    {
+      "start_time": 432,
+      "end_time": 467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But when the federal troops came they didn't ask questions. There was general killing of our people, our houses were bombed, men, women, actually. It was a tragedy beyond what one can describe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Second Guest of Edozien"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Massacres"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Oral History"
+        }
+      ],
+      "uuid": "70061046-f65e-4718-98c4-44b3833747f2"
+    },
+    {
+      "start_time": 468,
+      "end_time": 491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can't see anything moving at this point, that is the danger point. On this side of the river, this mortar group is preparing to fire on the other side."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Archival Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Foreign Journalist"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "War Sounds"
+        }
+      ],
+      "uuid": "0156bae3-2c2e-4090-a817-7c8d96319219"
+    },
+    {
+      "start_time": 491,
+      "end_time": 531,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The second I was in Biafra, I saw an Aleutian bomber supplied by the Russians of the Federal Nigerian Air Force come in and make its slow run in from the north. I was on the spot within five minutes and saw the bodies of a young mother and her infant child being lifted, they were naked, they were dead, being lifted onto a piece of corrugated iron roofing which was used to serve as a stretcher."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Archival Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Foreign Journalist"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "War Sounds"
+        }
+      ],
+      "uuid": "7d27ebf3-9d7c-4fd0-a50f-13730f4dd859"
+    },
+    {
+      "start_time": 531,
+      "end_time": 538,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You're listening to the BBC World Service with me, Wole Soyinka, returning to Biafra."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wole Soyinka"
+        }
+      ],
+      "uuid": "89bbd29c-a1e4-4638-a2bb-bd576c7d38f8"
+    },
+    {
+      "start_time": 538,
+      "end_time": 539,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*section break* *transition*"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ambient Sound"
+        }
+      ],
+      "uuid": "76e25c94-a018-46b8-93de-3f7cc36c683e"
+    },
+    {
+      "start_time": 539,
+      "end_time": 563,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Although Biafra was supposed to be under a blockade and Asaba Bridge was blocked on both the Midwest and the secessionist sides, traffic, both human and goods, flowed both ways. I crossed the River Niger by canoe and arrived in Onitsha, the twin city to Asaba, where I passed through the busy effervescent market."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wole Soyinka"
+        }
+      ],
+      "uuid": "3835da00-b057-4822-8d8f-2595348d4142"
+    },
+    {
+      "start_time": 563,
+      "end_time": 569,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let me talk. I go on. Yes, we know this man very well-- When I did primary six, Professor Soyinka, I know him when I was in primary six. Prof, God bless you!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Town Person"
+        }
+      ],
+      "uuid": "cd27266e-5831-4173-a5b3-37529dd7d6a6"
+    },
+    {
+      "start_time": 582,
+      "end_time": 653,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just as when I appeared here a few moments ago, there was lots of recognition and people saw exactly the same situation at that time. There was lots of recognition and people stopped to say hello, some stopped to ask news of what was happening on the other side, but of course there were the vigilantes. I met some and they let me go. Eventually there came this group of very young vigilantes with wooden guns and pointed the wooden guns at me and insisted on my identifying myself. So I identified myself and so, well, what do you do on this side? I said, well, I came to see you people and to see Emeka Ojukwu and to show...you know, searched me. Very, very excitable. For me, what was most amusing and at the same time rather pathetic and sad was the fact that they handled those wooden guns as if they were real guns, as if they believed in them. And it sort of was a kind of portent of what was to come that this was a people really unprepared for war, but with absolute faith."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wole Soyinka"
+        }
+      ],
+      "uuid": "66992c39-e58d-4cf7-9489-cb0f31ce2f4a"
+    },
+    {
+      "start_time": 653,
+      "end_time": 674,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*singing* \"We are sure / we are sure / we are sure to win the war...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Archival Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Children"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sound Collage"
+        }
+      ],
+      "uuid": "e71cd666-bcce-404b-a1c8-06b9f08b41ba"
+    },
+    {
+      "start_time": 674,
+      "end_time": 687,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This evening there will be a meeting for prayer and dedication for the Republic of Biafra, sponsored jointly by the Roman Catholic and Christian Council Churches at the Enugu Sports Stadium."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Archival Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Broadcast"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sound Collage"
+        }
+      ],
+      "uuid": "3771bb50-b6ba-463d-91b3-28aa1a1b34dd"
+    },
+    {
+      "start_time": 687,
+      "end_time": 719,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Although our present difficulties have partly arisen because some people in what used to be called the Federation of Nigeria believe that God's world is too small for mankind to live in, yet the encouraging fact of our age is the increase in discovery on the part of many Biafra that we are all one in the Lord Jesus Christ. Let me remind you that you are listening to Radio Biafra broadcasting from the Endugu Sports Stadium."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Archival Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Broadcast"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sound Collage"
+        }
+      ],
+      "uuid": "6e8bfb80-d235-4926-a947-9e50c9315869"
+    },
+    {
+      "start_time": 719,
+      "end_time": 750,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was arrested, but generally well treated, and brought my passport with me to make all understand that I accepted that I was visiting a sovereign territory. Transferred for interrogation to Enugu, now elevated from a regional to a national capital, I was routinely locked up in a police cell, treated as a regular suspect, all possessions confiscated, belt, shoes and underpants taken away. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wole Soyinka"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Enugu"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Prison"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Voiceover"
+        }
+      ],
+      "uuid": "f8612e1f-f618-447b-bf8b-4acc7940adc4"
+    },
+    {
+      "start_time": 750,
+      "end_time": 754,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But this is not the hotel presidential...the former one? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wole Soyinka"
+        }
+      ],
+      "uuid": "afcefcbb-2722-4a40-b55d-cb2cfafa8e96"
+    },
+    {
+      "start_time": 754,
+      "end_time": 757,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That is the same presidential hotel. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Presidential Hotel Guard"
+        }
+      ],
+      "uuid": "1268cca8-b71c-4945-8a37-a38c7acb4b10"
+    },
+    {
+      "start_time": 757,
+      "end_time": 760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the original one? Are you sure?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wole Soyinka"
+        }
+      ],
+      "uuid": "49566ada-313c-4f86-ae3b-50573e65a211"
+    },
+    {
+      "start_time": 760,
+      "end_time": 762,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very, very sure. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Presidential Hotel Guard"
+        }
+      ],
+      "uuid": "2a2535f7-b018-4589-aa90-cb1bef475f10"
+    },
+    {
+      "start_time": 762,
+      "end_time": 808,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The hotel presidential where I was lodged as a guest of the government, said it all. Sanctions and a blockade to enforce them had taken their role, and this once splendid lodging with a commanding view of the city had nothing left that was remotely presidential, except perhaps the size of its rats. If I sought a pessimistic portent for the future of Biafra, the presidential offered itself most assertively. I tried my best to dismiss this pessimistic image, however. I eyeballed the rats while awaiting my summons to the leader of the secessionist state."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wole Soyinka"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Voiceover"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Biafra"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Political Memory"
+        }
+      ],
+      "uuid": "77ddf2b3-fcd8-489a-9554-a1344335bed5"
+    },
+    {
+      "start_time": 808,
+      "end_time": 832,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nigeria can never be the same again, of that we are sure. If it is to remain one entity, everyone must wake up from the stupor and work hard and fast to reach a realistic solution. Otherwise, we cannot avoid disintegration."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Archival Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Odumegwu Ojukwu"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Political Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Civil Conflict"
+        }
+      ],
+      "uuid": "57b1b91c-6695-454b-a93b-60e0128f8ebc"
+    },
+    {
+      "start_time": 832,
+      "end_time": 894,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For this return journey to the former state of Biafra, my ultimate destination remained the same, to meet and speak with the secessionist leader, Odumegwu Ojukwu. This time, however, I also planned to meet with representatives of the younger generation who refused to abandon the dream of Biafra. These have organized themselves into a movement known as MASSOB – Movement for the Actualization of the Sovereign State of Biafra. Meeting their leaders did not prove quite as easy as was earlier promised. They had gone underground, following information that military and police action against them was imminent. First, though, a chance to speak again with Odumegwu Ojukwu, the leader I came to meet forty years ago. With failing eyesight, he is still as passionate as ever about the cause. And he can remember the day arrived in 1967."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wole Soyinka"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "MASSOB"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Biafra"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Intergenerational Trauma"
+        }
+      ],
+      "uuid": "94004943-881f-4726-b0b9-f4efa7d9c37a"
+    },
+    {
+      "start_time": 894,
+      "end_time": 933,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My immediate feeling was that my God, Wole has done it again, has come in. He doesn't know what problem he's got me into, because I needed to protect you. You were Yoruba, you're coming in. People had to decide, do they embrace you or hit you across the head? I was worried I thought they might hit you, but actually you're very lucky."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Odumegwu Ojukwu"
+        }
+      ],
+      "uuid": "19328ad9-d082-4f4f-a05b-1577964a0a22"
+    },
+    {
+      "start_time": 933,
+      "end_time": 941,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I counted on the fact of human curiosity. Somebody deliberately came into what was supposed to be an enemy enclave... I was very confident that I would get to see a responsible person as soon as possible. I got where I was headed, so I had no qualms whatsoever. None."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wole Soyinka"
+        }
+      ],
+      "uuid": "e4ab18b2-71f8-4e63-8824-15cf4710ecd0"
+    },
+    {
+      "start_time": 954,
+      "end_time": 987,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You had no qualms. I sat on a hot stool, wondering what would happen. I found it was the beginning of what I suffered. I went through throughout the war. My own view on many things, quite different actually from the views of the ordinary people. I had to explain that despite what was going on, I still had and considered certain Yorubas as friends."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Odumegwu Ojukwu"
+        }
+      ],
+      "uuid": "ff66b732-19fb-4a4b-9a1c-3aea076a72fc"
+    },
+    {
+      "start_time": 987,
+      "end_time": 997,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ojukwu still holds his position from 1967. I asked him about the decision to secede and how it actually came about."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wole Soyinka"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Voiceover"
+        }
+      ],
+      "uuid": "45c9b77c-deff-4e99-84ff-910882662172"
+    },
+    {
+      "start_time": 997,
+      "end_time": 1093,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We on this side, the eastern side, believe in Nigeria. We have proven that we've shown it in so many ways. We have developed areas in Nigeria. We have been with Nigerians. We continue to join Nigerians in everything. But there comes a point where if you push us, we say, ah, enough is enough. If that is the price we have to pay for unity, then it's better for us to stand alone. So that decision to secede, as you put it, you don't just sit down. We must secede. We didn't do that. But we were aware that there must come a time if the other side continues along this line, then we have to face that. No matter how unpleasant or pleasant it appears to you, that is the point. We certainly were considering it from the minute the massacres took place. You see how we can live if we're going to be massacred. There are certain things perhaps you might like to remember too. After the first massacre, I was the one that got onto the air and said to the Igbos, please, this is an aberration, go back to the north. I was the one."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Odumegwu Ojukwu"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Political Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reconciliation"
+        }
+      ],
+      "uuid": "ff5f19a5-b5d1-4514-bc6e-f684a3e55ada"
+    },
+    {
+      "start_time": 1093,
+      "end_time": 1105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I remember, I can't forget that if I was going to come to that. I was going to, and I'll come to it in a minute because I wanted to ask you if you ever, you must have revisited that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wole Soyinka"
+        }
+      ],
+      "uuid": "f948db3f-5df4-44ae-983c-9dc298213d90"
+    },
+    {
+      "start_time": 1105,
+      "end_time": 1106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh yes, all the time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Odumegwu Ojukwu"
+        }
+      ],
+      "uuid": "adb7eb19-767d-4089-b3d7-5270b3437a69"
+    },
+    {
+      "start_time": 1106,
+      "end_time": 1119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That is, you are lost of time and just how much anguish this must have caused you that you actually came out and said everybody go back, that you belong there, Nigeria. You know, I can't forget that at all."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wole Soyinka"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reconcilation"
+        }
+      ],
+      "uuid": "12f243bb-4288-4c3c-bc96-35685cfe53b0"
+    },
+    {
+      "start_time": 1119,
+      "end_time": 1123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, for the future, can Nigeria survive?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wole Soyinka"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Voiceover"
+        }
+      ],
+      "uuid": "86004763-90de-4bba-9a3f-4841a39376fe"
+    },
+    {
+      "start_time": 1123,
+      "end_time": 1134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you want Nigeria, I don't think it's impossible. I don't at all. But you'll just have to train yourselves to really believing the equality of citizenship. If you're not prepared for it, forget Nigeria."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Odumegwu Ojukwu"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reconciliation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Equal Rights"
+        }
+      ],
+      "uuid": "675d8baa-a424-48d6-b55c-7bbda4fe2ae4"
+    },
+    {
+      "start_time": 1134,
+      "end_time": 1149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*transition*"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9e837f23-63c7-4cc2-9dcd-33d9af5c72a5"
+    },
+    {
+      "start_time": 1149,
+      "end_time": 1154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Wole Soyinka on a journey back to Biafra for the BBC World Service."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wole Soyinka"
+        }
+      ],
+      "uuid": "833210f3-08de-4b52-9307-046ad23bb7b7"
+    },
+    {
+      "start_time": 1158,
+      "end_time": 1166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It will be a great disservice for anyone to continue to use the word Biafra to refer to any part of the East Central State of Nigeria. The tragic chapter of violence has just ended. We are at the dawn of national reconciliation. Once again, we have an opportunity to build a new nation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Archival Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gowon"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Political Forgetting"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Political Erasure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reconcilation"
+        }
+      ],
+      "uuid": "76dc0e8b-b059-4d3e-b19f-dc50cc00a6bd"
+    },
+    {
+      "start_time": 1190,
+      "end_time": 1200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here we are finally outdoors at night with all the night sounds of Enugu. And one of the reasons we're actually at this spot, which is a rather secretive spot, is that the person I'm going to talk to now belongs to an organisation which is being hunted by the police. The leader of that organisation has been in detention for nearly two years. We're talking of MASSOB, by the way, the movement for the actualisation of Biafra. And I'll ask you directly, what does Biafra mean to you, really?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wole Soyinka"
+        }
+      ],
+      "uuid": "d6f3d907-e6be-4ef4-a930-296068cdd828"
+    },
+    {
+      "start_time": 1232,
+      "end_time": 1268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What it actually means to me is it is an identity because my great grandparents have been identified as Biafras even before the Portuguese, the British people and what have you, I mean the white colonies, before they came down to this place. So what I'm trying to say right now is this, Biafra simply means to me what I am, naturally, by my culture, my language and my God's given right to live as a Biafra."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "MASSOB Member"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Identity"
+        }
+      ],
+      "uuid": "4347945e-39c3-4ce2-938a-bbfe4d7f8a2e"
+    },
+    {
+      "start_time": 1268,
+      "end_time": 1282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Does the actualisation mean for you secession from the Federation of Nigeria to which you at the moment, up till now, belong?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wole Soyinka"
+        }
+      ],
+      "uuid": "33e31831-e018-43da-9745-4ad64ef604b5"
+    },
+    {
+      "start_time": 1282,
+      "end_time": 1322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We are talking of Biafra today and the whole world has been hearing of Biafra and we claim to be Biafrans but one thing still remains, the sovereignty. So we cannot claim total freedom for now. But for the fact that we know we are Biafrans, we must keep claiming that. Till today, the Almighty will say, yes, this is the time for you to be free from your masters because we are like slaves right now and of course you know that. It's like it is a thing that has been going on day in day out and it will continue like that till the day we shall say hooray to the Almighty for giving us our freedom."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "MASSOB Member"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Colonization"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Identity"
+        }
+      ],
+      "uuid": "e78e870f-db7a-41fd-83f4-918689140513"
+    },
+    {
+      "start_time": 1322,
+      "end_time": 1334,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Join me next week on the BBC World Service when I'll be completing my journey with a man to Lagos where I want to meet the man who put me behind bars for my audacious trip to Biafra."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wole Soyinka"
+        }
+      ],
+      "uuid": "ee78d508-ece1-47c8-908d-3a0bffbf806d"
+    }
+  ],
   "event_id": "4e588084-4b8a-4e32-868b-89491ef32676",
   "set": "Speaker Tags",
   "source_id": "7740faec-bff4-476f-be39-7144c6e91e43"
