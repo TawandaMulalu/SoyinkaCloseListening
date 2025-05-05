@@ -474,6 +474,15 @@
     },
     {
       "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": "It is within this tension in which my last argument lies: in close listening to Wole Soyinka’s decidedly measured recollections of the Biafran civil war, we discover Soyinka’s means of negotiating between the emotionally intense discourses of collective trauma and the reconciliatory impulses required for post-conflict nation-building. We can therefore better understand Soyinka’s tempered affect regarding his imprisonment not merely as a display of “bygones is bygones” but instead as a intentional strategy of African nation-building in the face of political crisis, a strategy he attempts to elucidate in his later work, "
@@ -1095,7 +1104,7 @@
   "slug": "introduction",
   "created_at": "2025-04-23T12:59:45.135Z",
   "created_by": "TawandaMulalu",
-  "updated_at": "2025-05-05T03:55:23.093Z",
+  "updated_at": "2025-05-05T03:57:02.336Z",
   "updated_by": "TawandaMulalu",
   "parent": "2f1e171b-343f-474e-b7d5-5f15ccfa2d07"
 }
