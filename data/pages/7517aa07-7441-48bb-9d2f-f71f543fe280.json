@@ -306,7 +306,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Furthermore, the narrator in The Man Died’s ability to configure himself temporally—even in the midst of his subjugation where his awareness of the world around him is stripped from him—allows for some kind of external relation that is simultaneously deeply invested in language, but reaches past language towards the materiality of other persons, the materiality of a dreamed-for democratic nation-state which defines Soyinka’s struggle. Again, this effect becomes more pronounced when considering the multiplicity of sounds—of other Nigerians, of the democratic nation-state constituted via speech—that we find spliced into the media being considered in this project. The sections of poetry in the memoir speak to this external reaching via the interior effects of language, especially the poem beginning “I anoint my flesh”, the second stanza of which reads, in its entirety: "
+          "text": "Furthermore, the narrator in "
+        },
+        {
+          "text": "The Man Died’s",
+          "italic": true
+        },
+        {
+          "text": " ability to configure himself temporally—even in the midst of his subjugation where his awareness of the world around him is stripped from him—allows for some kind of external relation that is simultaneously deeply invested in language, but reaches past language towards the materiality of other persons, the materiality of a dreamed-for democratic nation-state which defines Soyinka’s struggle. Again, this effect becomes more pronounced when considering the multiplicity of sounds—of other Nigerians, of the democratic nation-state constituted via speech—that we find spliced into the media being considered in this project. The sections of poetry in the memoir speak to this external reaching via the interior effects of language, especially the poem beginning “I anoint my flesh”, the second stanza of which reads, in its entirety: "
         }
       ],
       "align": "justify"
@@ -542,7 +549,21 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "Ojukwu: He certainly thought the slogan, no victor, no vanquished, put him in line, sort of in the same, not Washington, but Lincoln in America. He was one of the magnanimous victors of our civilization. Did Gawain, when he was saying it, really understand what it meant, no victor, no vanquished? Did Haziop till today, has he thought back? How much did he do to make the victor not a victor? On the other side, we the vanquished certainly have so many steps of Nigeria that remind us that we are vanquished (Soyinka 00:17:10-00:19:12)."
+          "text": "Ojukwu: He certainly thought the slogan, "
+        },
+        {
+          "text": "no victor, no vanquished,",
+          "italic": true
+        },
+        {
+          "text": " put him in line, sort of in the same, not Washington, but Lincoln in America. He was one of the magnanimous victors of our civilization. Did Gawain, when he was saying it, really understand what it meant, "
+        },
+        {
+          "text": "no victor, no vanquished",
+          "italic": true
+        },
+        {
+          "text": "? Did Haziop till today, has he thought back? How much did he do to make the victor not a victor? On the other side, we the vanquished certainly have so many steps of Nigeria that remind us that we are vanquished (Soyinka 00:17:10-00:19:12)."
         }
       ],
       "align": "justify"
@@ -1104,7 +1125,7 @@
   "slug": "introduction",
   "created_at": "2025-04-23T12:59:45.135Z",
   "created_by": "TawandaMulalu",
-  "updated_at": "2025-05-05T03:57:02.336Z",
+  "updated_at": "2025-05-05T03:59:36.936Z",
   "updated_by": "TawandaMulalu",
   "parent": "2f1e171b-343f-474e-b7d5-5f15ccfa2d07"
 }
