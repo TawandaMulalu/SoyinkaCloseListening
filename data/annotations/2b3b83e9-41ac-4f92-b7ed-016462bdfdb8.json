@@ -211,22 +211,6 @@
       "uuid": "a4395df8-80b2-4f70-95df-83d94ae2282d"
     },
     {
-      "start_time": 538,
-      "end_time": 539,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "undefined"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "423f6e64-fb92-45f1-bc5d-739c6dd7dea1"
-    },
-    {
       "start_time": 539,
       "end_time": 563,
       "annotation": [
