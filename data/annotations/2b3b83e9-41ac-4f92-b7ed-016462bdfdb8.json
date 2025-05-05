@@ -43,27 +43,6 @@
       "uuid": "181bb476-5870-400d-a44f-70d27a89456a"
     },
     {
-      "start_time": 101,
-      "end_time": 110,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "This collage of different speakers gives a sense of multiplicity to the war that is often missing from the text. On the one hand, we get a sense of people's different responses to the conflict. On the other hand, we aren't given a sense of who these people are and what their positions in society are, so it's hard to contextualise their thoughts."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Theoretical Note"
-        }
-      ],
-      "uuid": "e5a4f24f-a19c-4e5d-ac8d-6596d00a1a1f"
-    },
-    {
       "start_time": 127,
       "end_time": 131,
       "annotation": [
