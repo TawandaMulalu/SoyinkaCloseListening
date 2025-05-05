@@ -4,17 +4,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\nThis project attends to some of the differences between the written and the spoken word in how Wole Soyinka narrates his memories of his imprisonment during the Biafran War in 1966, and also the larger tale of the politics surrounding that conflict. What particular affordances does the aural experience of this narrative present to the listener that the written experience cannot? How are we to interpret the affective shift in Soyinka’s responses to the Biafran War throughout his literary and political history? \n"
+          "text": "\nThis project attends to some of the differences between the written and the spoken word in how Wole Soyinka narrates his memories of his imprisonment during the Biafran War in 1966, and also the larger tale of the politics surrounding that conflict. What particular affordances does the aural experience of this narrative present to the listener that the written experience cannot? How are we to interpret the affective shift in Soyinka’s responses to the Biafran War throughout his literary and political history? "
         }
       ],
-      "align": "center"
+      "align": "justify"
     },
     {
       "type": "paragraph",
-      "align": "center",
+      "align": "justify",
       "children": [
         {
-          "text": ""
+          "text": "\nThe research for this project was carried out at The University of Texas at Austin, under the supervision of Dr. Tanya Clement in the English Department for her Spring 2025 graduate seminar, 'Close Listening to Literary Archives' \n\n"
         }
       ]
     },
@@ -27,42 +27,44 @@
           "text": ""
         }
       ],
-      "align": "center"
+      "align": "justify"
     },
     {
       "type": "paragraph",
       "children": [
         {
           "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "The research for this project was carried out at The University of Texas at Austin, under the supervision of Dr. Tanya Clement in the English Department for her Spring 2025 graduate seminar, 'Close Listening to Literary Archives' "
         }
       ],
-      "align": "center"
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
     }
   ],
   "created_at": "2025-04-23T12:56:16.462Z",
   "created_by": "TawandaMulalu",
-  "title": "Wole Soyinka, 'The Man Died' and the Oral Performance of Political Memory",
-  "updated_at": "2025-05-05T04:06:31.359Z",
+  "title": "Home",
+  "updated_at": "2025-05-05T04:46:59.766Z",
   "updated_by": "TawandaMulalu",
   "autogenerate": {
     "enabled": false,
     "type": "home"
   },
-  "slug": "wole-soyinka-the-man-died-and-the-oral-per"
+  "slug": "home"
 }
