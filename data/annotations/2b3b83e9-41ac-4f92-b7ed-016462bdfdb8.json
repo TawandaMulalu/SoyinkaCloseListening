@@ -1,5 +1,980 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f7e41904-d075-4f16-87ae-ca227293d66a"
+    },
+    {
+      "start_time": 23,
+      "end_time": 73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b40f6398-3ca3-4baf-91d8-4ee96b783d97"
+    },
+    {
+      "start_time": 76,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "84066f29-3a64-47a5-ba92-fbb396d18eae"
+    },
+    {
+      "start_time": 87,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Early instance of how environmental sounds contribute to the 'immediacy' of history in a way that text cannot. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theoretical Note"
+        }
+      ],
+      "uuid": "bb15d84b-9974-4690-bfbf-9f96e923a4c5"
+    },
+    {
+      "start_time": 91,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This collage of different speakers gives a sense of multiplicity to the war that is often missing from the text. On the one hand, we get a sense of people's different responses to the conflict. On the other hand, we aren't given a sense of who these people are and what their positions in society are, so it's hard to contextualise their thoughts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theoretical Note"
+        }
+      ],
+      "uuid": "181bb476-5870-400d-a44f-70d27a89456a"
+    },
+    {
+      "start_time": 101,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This collage of different speakers gives a sense of multiplicity to the war that is often missing from the text. On the one hand, we get a sense of people's different responses to the conflict. On the other hand, we aren't given a sense of who these people are and what their positions in society are, so it's hard to contextualise their thoughts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theoretical Note"
+        }
+      ],
+      "uuid": "e5a4f24f-a19c-4e5d-ac8d-6596d00a1a1f"
+    },
+    {
+      "start_time": 110,
+      "end_time": 124,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This collage of different speakers gives a sense of multiplicity to the war that is often missing from the text. On the one hand, we get a sense of people's different responses to the conflict. On the other hand, we aren't given a sense of who these people are and what their positions in society are, so it's hard to contextualise their thoughts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theoretical Note"
+        }
+      ],
+      "uuid": "d7558e2b-3908-4ecc-a164-185519b933c6"
+    },
+    {
+      "start_time": 127,
+      "end_time": 131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contrast the calm, journalistic delivery here of Soyinka regarding the details of the war with his (justified) activist polemics in his prison memoir."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theoretical Note"
+        }
+      ],
+      "uuid": "2e2c0f6a-aee6-46e4-bd0b-6e85f0602df7"
+    },
+    {
+      "start_time": 173,
+      "end_time": 198,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fd41847b-254a-4f0d-b774-6e76603fefa5"
+    },
+    {
+      "start_time": 198,
+      "end_time": 205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "78026bb6-5c10-48e2-8331-08e7c8f57fc3"
+    },
+    {
+      "start_time": 207,
+      "end_time": 263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bbd96df8-31e5-431c-ab4b-118b11ecd12e"
+    },
+    {
+      "start_time": 260,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "78b8ca4c-47e2-4044-998f-8b6bcdd637b9"
+    },
+    {
+      "start_time": 277,
+      "end_time": 331,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "14712d8c-dd0a-48bb-99fe-4355a617ea78"
+    },
+    {
+      "start_time": 331,
+      "end_time": 335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ab581896-bf2d-4952-853c-3ce93e47cd4f"
+    },
+    {
+      "start_time": 335,
+      "end_time": 365,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3e15f933-d869-4092-9d5a-e6fca4b65468"
+    },
+    {
+      "start_time": 365,
+      "end_time": 403,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Interesting collection of oral histories at Edozien's dinner gathering regarding the early masscres during the Biafran Civil War (assumedly in Asaba?) Also provides good contest of other figures besides Soyinka, Ojukwu and Gowon who bear testimony to the events of the war. Also helps us realize how widespread citizen particapation in the civil conflicts and massacres were outside of just the military."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theoretical Note"
+        }
+      ],
+      "uuid": "662befad-e366-4e12-82f0-249950ce3929"
+    },
+    {
+      "start_time": 403,
+      "end_time": 432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Interesting collection of oral histories at Edozien's dinner gathering regarding the early masscres during the Biafran Civil War (assumedly in Asaba?) Also provides good contest of other figures besides Soyinka, Ojukwu and Gowon who bear testimony to the events of the war. Also helps us realize how widespread citizen particapation in the civil conflicts and massacres were outside of just the military."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theoretical Note"
+        }
+      ],
+      "uuid": "dc4f2d67-df0e-404e-9d35-aabd3ac780c9"
+    },
+    {
+      "start_time": 432,
+      "end_time": 467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Interesting collection of oral histories at Edozien's dinner gathering regarding the early masscres during the Biafran Civil War (assumedly in Asaba?) Also provides good contest of other figures besides Soyinka, Ojukwu and Gowon who bear testimony to the events of the war. Also helps us realize how widespread citizen particapation in the civil conflicts and massacres were outside of just the military."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theoretical Note"
+        }
+      ],
+      "uuid": "83406554-0bf1-4c1f-aa47-3495933b6be0"
+    },
+    {
+      "start_time": 468,
+      "end_time": 491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The archival audio of foreign journalists provides a sense of how widespread global reporting was of the Biafran Civil War was, as one of the first civil conflicts to gain worldwide attention due to rapidly developing technologies and globalization post-WWII."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theoretical Note"
+        }
+      ],
+      "uuid": "9aa5af90-52cf-419f-876d-193e7b5ba1ed"
+    },
+    {
+      "start_time": 491,
+      "end_time": 531,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The archival audio of foreign journalists provides a sense of how widespread global reporting was of the Biafran Civil War was, as one of the first civil conflicts to gain worldwide attention due to rapidly developing technologies and globalization post-WWII."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theoretical Note"
+        }
+      ],
+      "uuid": "a4395df8-80b2-4f70-95df-83d94ae2282d"
+    },
+    {
+      "start_time": 531,
+      "end_time": 538,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5df2900c-734a-4cfb-9813-d9df322add2e"
+    },
+    {
+      "start_time": 538,
+      "end_time": 539,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "423f6e64-fb92-45f1-bc5d-739c6dd7dea1"
+    },
+    {
+      "start_time": 539,
+      "end_time": 563,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8e2b40c2-4a13-4b64-ba15-05fb4c4758cb"
+    },
+    {
+      "start_time": 563,
+      "end_time": 569,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Curious moment highlighting the iconography of Wole Soyinka as a dissident figure in his home country, curious because of the decision in editing to include it even though it doesn't necessary serve the main narrative of this story. There's a tension between Soyinka as heroic post-colonial figure with the humility to see himself as but one conduit of larger political movements but also a tendency (whether hoisted upon him, or strategically used, I'm not sure) to highlight his dissisdent iconography in the re-telling of the political histories he's involved with."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theoretical Note"
+        }
+      ],
+      "uuid": "1c1910be-3241-4025-a091-21d4b09c6175"
+    },
+    {
+      "start_time": 582,
+      "end_time": 653,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1967: \"Soyinka was arrested at wooden gunpoint and taken to Enugu, the capital of the self-proclaimed state of Biafra. Here he waited for the opportunity to speak with Ojukwu.\" http://news.bbc.co.uk/2/hi/africa/7057098.stm"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theoretical Note"
+        }
+      ],
+      "uuid": "f00054c7-e586-4b3f-974c-0b31cd9c4924"
+    },
+    {
+      "start_time": 653,
+      "end_time": 674,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Moments of collage such as this, make me wish the production notes / history of this podcast were easily available. The questions I have on my mind: whose children are singing these songs? Who taught them the war chants? Did the children participate in the conflict? Are some of them still living today who could have provided testimony on their experiences?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theoretical Note"
+        }
+      ],
+      "uuid": "eedaa3ff-51ae-4982-8fab-b52a8bdc65e2"
+    },
+    {
+      "start_time": 674,
+      "end_time": 687,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8ed76c00-5a45-4748-8874-184078cea347"
+    },
+    {
+      "start_time": 687,
+      "end_time": 719,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"The predominately Igbo areas of southeast Nigeria, the core of the former Biafra, are overwhelmingly Christian and predominately Roman Catholic. Biafran propaganda at the time of the civil war greatly oversimplified the conflict, reducing it to a struggle between Christians and Muslims (though many Christian clergy supported Biafra).\" https://www.cfr.org/blog/distorted-memory-biafra"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theoretical Note"
+        }
+      ],
+      "uuid": "12b5361e-b245-4688-bac0-d85892abb40e"
+    },
+    {
+      "start_time": 719,
+      "end_time": 750,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9d80bda4-3635-4c6d-a946-0d1243c5e017"
+    },
+    {
+      "start_time": 750,
+      "end_time": 754,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3e236af6-8e28-4e40-96c6-90de0091fcb3"
+    },
+    {
+      "start_time": 754,
+      "end_time": 757,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "aa6b4716-7819-4041-926a-3dec88802fe2"
+    },
+    {
+      "start_time": 757,
+      "end_time": 760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f6a11b00-0cb9-44a2-bcf0-d5c95d610d6c"
+    },
+    {
+      "start_time": 760,
+      "end_time": 762,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3b565ecb-775a-48f0-8256-0dfefb9cbb1a"
+    },
+    {
+      "start_time": 762,
+      "end_time": 808,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d3ef587d-7a52-4fe3-894a-6feaed8043ae"
+    },
+    {
+      "start_time": 808,
+      "end_time": 832,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "922b1fa0-b1c8-4acf-9fb9-29e43ea5174a"
+    },
+    {
+      "start_time": 832,
+      "end_time": 894,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The presence of MASSOB in this interview highlights the continued salience of the Biafran War in understanding contemporary Nigeria, and of how intergenerational trauma continues to have political effects on the present."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theoretical Note"
+        }
+      ],
+      "uuid": "16748682-aafe-40a5-a209-e9f6725f99bb"
+    },
+    {
+      "start_time": 894,
+      "end_time": 933,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's surprising how little-discussed Soyinka's ethnicity is in this interview is given that the Biafran Civil War, was, at its heart, an ethnic conflict running up against the idea of a new nation attempting (often via military and political force) a multicultural society."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theoretical Note"
+        }
+      ],
+      "uuid": "1ee73f21-4a46-4de1-9034-7e4419cae0de"
+    },
+    {
+      "start_time": 933,
+      "end_time": 941,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Strangely cavalier response--perhaps brave, perhaps arrogant. Rather difficult to read the tone here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theoretical Note"
+        }
+      ],
+      "uuid": "a563efda-28e8-4c61-be6b-ece513c66283"
+    },
+    {
+      "start_time": 954,
+      "end_time": 987,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ojukwu's response here makes clear how cavalier Soyinka's thinking was with regards to his personal safety in entering Biafra in 1967."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theoretical Note"
+        }
+      ],
+      "uuid": "2ffdd605-3d4c-466f-8c3c-246729802fb2"
+    },
+    {
+      "start_time": 987,
+      "end_time": 997,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "06d0ef85-d109-484f-8ee2-0bba1b18ca84"
+    },
+    {
+      "start_time": 997,
+      "end_time": 1093,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b57688fa-95ff-4a27-b24e-d758a5109448"
+    },
+    {
+      "start_time": 1093,
+      "end_time": 1105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rare moment where Soyinka seems to be more treading carefully, implicitly asking Ojukwu about potential regrets."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theoretical Note"
+        }
+      ],
+      "uuid": "8db77160-95a4-4054-aba8-679e9034377d"
+    },
+    {
+      "start_time": 1105,
+      "end_time": 1106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4ccdf3bc-5478-4366-bc98-9363d0382cc7"
+    },
+    {
+      "start_time": 1106,
+      "end_time": 1119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b0bf58be-7e65-4864-941f-d58c87b595ed"
+    },
+    {
+      "start_time": 1119,
+      "end_time": 1123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bcc595eb-8653-44da-9b27-bbe5120345bb"
+    },
+    {
+      "start_time": 1123,
+      "end_time": 1134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "27da5810-7a4f-4651-88b3-023ed7691848"
+    },
+    {
+      "start_time": 1134,
+      "end_time": 1149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6be8f508-0f43-4792-850d-cfbce0237aa7"
+    },
+    {
+      "start_time": 1149,
+      "end_time": 1154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f8471545-9c04-4e1b-886d-6051e4e32fa8"
+    },
+    {
+      "start_time": 1158,
+      "end_time": 1166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Moment which perfectly highlights this tension, made deeply apparent in part two of this series, between political forgetting/erasure as an expediency towards social reconcilation, versus genuine reconciliation--one of Ojukwu's biggests concerns regarding the future of Igbos in Nigeria."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theoretical Note"
+        }
+      ],
+      "uuid": "96d34672-c3f9-4d10-a195-bf3fa6783c4e"
+    },
+    {
+      "start_time": 1190,
+      "end_time": 1200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c2d94aa4-2fc4-421c-888c-8769e479b098"
+    },
+    {
+      "start_time": 1232,
+      "end_time": 1268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e3106012-7fb9-41dd-be48-d188f0140917"
+    },
+    {
+      "start_time": 1268,
+      "end_time": 1282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"The question of how to commit to such faith remains alive, not just for Nigeria, but for all countries with peoples dreaming their collective traumas into other, possible futures. Where Soyinka—nor anyone—cannot grant an all-solving model, we must instead lean into one another, and listen to the affective potentials living in the voice of every citizen. Hope, maybe, resides there.\" (excerpted from the Project Introduction) "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theoretical Note"
+        }
+      ],
+      "uuid": "b88e5961-116e-4f32-a0f5-efcacb8eef32"
+    },
+    {
+      "start_time": 1282,
+      "end_time": 1322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“The governments of Nigeria replicated the separatist politics of colonialism and reinforced the divisions in the country so that it was eventually pulled apart in the secession of Biafra and the ensuing civil war” (Whitehead 26)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theoretical Note"
+        }
+      ],
+      "uuid": "ed57348c-9eb7-4020-983d-16f38ca0c2a9"
+    },
+    {
+      "start_time": 1322,
+      "end_time": 1334,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cfd70745-035d-4878-8093-04be2622051d"
+    }
+  ],
   "event_id": "4e588084-4b8a-4e32-868b-89491ef32676",
   "set": "BBC 1 Theoretical Notes ",
   "source_id": "7740faec-bff4-476f-be39-7144c6e91e43"
